@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Paket oluşturma testi",
+      "setup": "",
+      "run": "mvn install",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
